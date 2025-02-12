@@ -1,12 +1,12 @@
-# Página de Fans del Videojuego Mad Max
+# Fan page del Videojuego Mad Max
 
 ¡Bienvenido a mi página del videojuego de Mad Max! Este repositorio contiene información sobre el juego, incluyendo detalles sobre la jugabilidad, personajes, vehículos, y el vasto desierto post-apocalíptico en el que está ambientado.
 
 ## Tabla de Contenidos de la página
 
-1. [Inicio]
-2. [Acerca]
-3. [Contacto]
+1. Inicio
+2. Acerca
+3. Contacto
 
 ## Descripción
 
